@@ -14,7 +14,7 @@ This project invloves analyzing music data using SQL at a beginner to intermedia
    - PostgreSQL
    - Excel
 
-## Usage 
+### Usage 
 1. Import Data:
        Import the Excel files into PostgreSQL.
 2. Run SQL Scripts:
@@ -24,7 +24,7 @@ This project invloves analyzing music data using SQL at a beginner to intermedia
 1. Directly download the files to your systems folder
                      OR
    Clone the Repository:
-   '''bash
+   ''' sh
    git clone https://github.com/Ramya-pintchy/Music_Analysis.git
    cd Music_Analysis
 
