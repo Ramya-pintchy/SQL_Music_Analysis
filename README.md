@@ -27,7 +27,7 @@ This project invloves analyzing music data using SQL at a beginner to intermedia
 1. Directly download the files to your systems folder
                      OR
    Clone the Repository:
-   ''' sh
+   ```sh
    git clone https://github.com/Ramya-pintchy/Music_Analysis.git
    cd Music_Analysis
 
