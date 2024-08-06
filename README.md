@@ -4,7 +4,7 @@
 This project invloves analyzing music data using SQL at a beginner to intermediate level. The analysis is performed using PostgreSQL and includes various SQL queries to extract meaningful insights from the dataset. This project aims to enhance SQL skills through practical application and exploration of music data. 
 
 #### Refer the schema_diagram for referenece:
-![SQL_Music_Analysis](images/schema_diagram.png)
+![SQL_Music_Analysis](schema_diagram.png)
 
 **LEVEL**- Begginner- Intermmediate
 
